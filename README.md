@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/suyash200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suyash200" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/suyash lade](https://www.linkedin.com/in/suyash-lade-666b3b227/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash lade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suyash-lade-666b3b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash lade" height="30" width="40" /></a>
 <a href="https://hashnode.com/@suyashlade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@suyashlade" height="30" width="40" /></a>
 </p>
 
